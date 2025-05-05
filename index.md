@@ -120,7 +120,7 @@ Another mode of our haptic suits is to be sound reactive. This means you will be
 
 - [Innovation Presentation](2024/04/26/innovation-presentation/index.md) - *April 26, 2024* by Julian Devlin
 - [First Match!](2024/04/24/first-match/index.html) - *April 24, 2024* by Julian Devlin
-- [Long Day](2024/04/20/long-day/index.html) - *April 20, 2024* by Julian Devlin
+- [Long Day](2024/04/20/long-day/index.md) - *April 20, 2024* by Julian Devlin
 
 ---
 
